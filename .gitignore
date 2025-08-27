@@ -1,4 +1,7 @@
+.venv/
 __pycache__/
 *.pyc
-.venv/
+anilist.db
 *.db
+.vscode/
+.DS_Store
